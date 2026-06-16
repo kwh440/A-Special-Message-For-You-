@@ -23,7 +23,7 @@ A premium, emotionally captivating single-page website designed to ask someone o
    - Under **Build and deployment**, set the source to **Deploy from a branch**.
    - Select the **main** branch and the **/(root)** folder.
    - Click **Save**.
-4. **Visit Your Site**: In a few minutes, your site will be live at `https://<your-username>.github.io/<repository-name>/`.
+4. **Visit Your Site**: In a few minutes, your site will be live at `https://kwh440.github.io/A-Special-Message-For-You-/`.
 
 ## 📂 Project Structure
 ```text
